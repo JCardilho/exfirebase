@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715065085270",
+    "project_id": "atflutter-b5ad8",
+    "storage_bucket": "atflutter-b5ad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715065085270:android:9c5a53ca7ff3e69e679af7",
+        "android_client_info": {
+          "package_name": "com.example.exfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJAhqHQ2JIidGUtIfvqgqCigiIQslIjTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
